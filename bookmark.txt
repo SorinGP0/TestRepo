@@ -6,3 +6,6 @@
 
 04.08.2016
 - no progress
+
+05.08.2016
+- almost solved bny problem, ToDo add classCounter 
