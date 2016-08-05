@@ -9,3 +9,4 @@
 
 05.08.2016
 - almost solved bny problem, ToDo add classCounter 
+- solved bny problem, counter working as intended
